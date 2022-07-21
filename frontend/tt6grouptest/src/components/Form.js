@@ -91,7 +91,7 @@ const App = () => {
             onChange={onChange}
           />
         ))}
-        <button type="submit">Submit</button>
+        <button type="submit">Register</button>
       </form>
     </div>
   );
