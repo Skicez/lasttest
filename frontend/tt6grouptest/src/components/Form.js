@@ -70,7 +70,8 @@ const App = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     navigate('/');
-    console.log(e.target.value)
+    // code to call backend
+    console.log(e.target)
   };
   
 
